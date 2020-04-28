@@ -1,0 +1,1 @@
+web: gunicorn djprofile.wsgi
